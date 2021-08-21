@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.davidpeach.gtkhelloagain package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.davidpeach.gtkhelloagain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-21 09:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Application.vala:15
+msgid "Hello again world!"
+msgstr ""
+
+#: src/Application.vala:20
+msgid "Hello Again!"
+msgstr ""
+
+#: data/hello-again.desktop.in:3
+msgid "_(\"Hello Again\")"
+msgstr ""
+
+#: data/hello-again.desktop.in:4
+msgid "_(\"Hello World App\")"
+msgstr ""
+
+#: data/hello-again.desktop.in:5
+msgid "Proves that we can use Vala and Gtk"
+msgstr ""
+
+#: data/hello-again.desktop.in:8
+msgid "com.github.davidpeach.gtkhelloagain"
+msgstr ""
+
+#: data/hello-again.desktop.in:11
+msgid "Hello;World;Example;"
+msgstr ""
+
+#: data/hello-again.appdata.xml.in:6
+msgid "Hello Again"
+msgstr ""
+
+#: data/hello-again.appdata.xml.in:7
+msgid "The best one yet"
+msgstr ""
+
+#: data/hello-again.appdata.xml.in:9
+msgid ""
+"A quick summary of your app's main selling points and features. Just a "
+"couple sentences per paragraph is best."
+msgstr ""
